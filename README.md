@@ -51,3 +51,4 @@ Agent templates
 
 Tagline
 
+https://github.com/west70godpetsnjs/-SuperAgent-Hub/releases/tag/SuperAgent-Hub
